@@ -1,0 +1,9 @@
+dacite==1.9.2
+matplotlib==3.10.6
+matplotlib-inline==0.1.7
+pandas==2.3.3
+pexpect==4.9.0
+scikit-learn==1.7.2
+seaborn==0.13.2
+sentence-transformers=5.1.1
+setuptools=80.9.0
